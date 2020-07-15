@@ -1,0 +1,24 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "application for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indyminhas/employeetracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indyminhas/employeetracker/issues"
+  },
+  "homepage": "https://github.com/indyminhas/employeetracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2",
+    "mysql": "^2.18.1"
+  }
+}
